@@ -76,10 +76,15 @@ Run the game using Python:
 python main.py
 
 ## 📁 Project Structure
+
 magic-number
+
 │
+
 ├── main.py
+
 ├── recorde.txt
+
 └── README.md
 
 ## 👨‍💻 Author
