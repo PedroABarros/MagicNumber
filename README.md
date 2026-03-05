@@ -31,12 +31,19 @@ Attempts: ❤️ ❤️ ❤️ ❤️ ❤️ ❤️
 ## ⚙️ Features
 
 🎯 Random number generation
+
 🔥 Hot / Cold proximity hints
+
 🔼 Higher / Lower directional hints
+
 🏆 Top 5 leaderboard stored locally
+
 📊 Score system based on remaining attempts
+
 ⚠️ Input validation and duplicate guess prevention
+
 🎨 ANSI colored terminal interface
+
 📉 Dynamic search range adjustment
 
 ## 🧠 Concepts Demonstrated
@@ -44,10 +51,15 @@ Attempts: ❤️ ❤️ ❤️ ❤️ ❤️ ❤️
 This project showcases several programming concepts:
 
 Random number generation
+
 Input validation
+
 File handling for persistent storage
+
 Game loop design
+
 Modular Python functions
+
 User experience in CLI applications
 
 ## 📦 Installation
