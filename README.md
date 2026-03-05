@@ -7,9 +7,9 @@ The game provides dynamic feedback to guide the player, including directional hi
 This project was created as a way to practice Python fundamentals, including control flow, file handling, input validation, and modular code structure.
 
 ## 🖥️ Game Preview
-================================
-        🎯 MAGIC NUMBER
-================================
+
+🎯 MAGIC NUMBER
+
 
 Choose a difficulty:
 
