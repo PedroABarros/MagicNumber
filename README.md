@@ -65,9 +65,11 @@ User experience in CLI applications
 ## 📦 Installation
 
 Clone the repository:
-git clone https://github.com/yourusername/MagicNumber.git
+
+git clone https://github.com/PedroABarros/MagicNumber.git
 
 Navigate to the project folder:
+
 cd magic-number
 
 ## ▶️ Running the Game
